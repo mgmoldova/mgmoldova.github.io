@@ -1,2 +1,2 @@
 # mgmoldova.github.io
-* [Cantica](http://mgmoldova.github.io/cantina) 
+* [Cantina](http://mgmoldova.github.io/cantina) 
